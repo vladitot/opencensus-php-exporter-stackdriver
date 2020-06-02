@@ -1,5 +1,5 @@
 {
-    "name": "opencensus/opencensus-exporter-stackdriver",
+    "name": "vladitot/opencensus-exporter-stackdriver",
       "description": "OpenCensus Stackdriver Exporter for PHP",
     "type": "library",
     "require": {
